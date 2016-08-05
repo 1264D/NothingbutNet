@@ -1,0 +1,8 @@
+port 2: front left wheel motor
+port 3: back left wheel motor
+port 4: front right wheel motor
+port 5: back right wheel motor
+port 6: left conveyer motor
+port 7: right conveyer motor
+port 8: launcher motor
+port 9: launcher motor
